@@ -1,0 +1,35 @@
+.profiles {
+
+}
+
+.cute_pets {
+  float: left;
+  width: 250px;
+  margin: 0px 20px 20px 20px;
+  padding: 10px;
+}
+
+.cat {
+  background-color: #cc6153;
+}
+
+.dog {
+  background-color: #a3d185;
+}
+
+.bear {
+  background-color: #e5bd89;
+}
+
+.pig {
+  background-color: #89b7e5;
+}
+
+h2 {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
