@@ -5,27 +5,30 @@
 .cute_pets {
   float: left;
   width: 250px;
-  margin: 0px 20px 20px 20px;
-  padding: 10px;
+  margin: 20px;
 }
 
 .cat {
   background-color: #cc6153;
+  padding: 10px;
 }
 
 .dog {
   background-color: #a3d185;
+  padding: 10px;
 }
 
 .bear {
   background-color: #e5bd89;
+  padding: 10px;
 }
 
 .pig {
   background-color: #89b7e5;
+  padding: 10px;
 }
 
-h2 {
+h1, h2 {
   text-align: center;
 }
 
