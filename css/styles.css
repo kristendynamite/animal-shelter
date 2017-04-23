@@ -4,7 +4,7 @@
 
 .cute_pets {
   float: left;
-  width: 250px;
+  width: 225px;
   margin: 20px;
 }
 
@@ -30,9 +30,20 @@
 
 h1, h2 {
   text-align: center;
+  font-family: 'Chewy', cursive;
+}
+
+h1 {
+  font-size: 48px
 }
 
 img {
   display: block;
   margin: auto;
+  width: 180px
+}
+
+p {
+  font-family: 'Handlee', cursive;
+  font-size: 18px;
 }
